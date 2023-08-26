@@ -1,4 +1,4 @@
-import {injectContentScript} from 'webext-content-scripts';
+import {injectContentScript} from '@ajayyy/webext-content-scripts';
 import chromeP from 'webext-polyfill-kinda';
 import {patternToRegex} from 'webext-patterns';
 
